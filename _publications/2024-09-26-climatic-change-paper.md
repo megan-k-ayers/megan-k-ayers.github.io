@@ -6,6 +6,6 @@ excerpt: 'Building public consensus about the threat of climate change is critic
 date: 2024-06-10
 venue: 'Climatic Change'
 slidesurl: 
-paperurl: 'https://rdcu.be/dKrNT'
+paperurl: 'https://drive.google.com/file/d/1QYsTz01y5GQi5_1WSB5FiR0BJXd-aHJ7/view?usp=sharing'
 citation: 'Ayers, M., Marlon, J.R., Ballew, M.T. et al. Changes in Global Warming’s Six Americas: an analysis of repeat respondents. Climatic Change 177, 96 (2024). https://doi.org/10.1007/s10584-024-03754-x'
 ---
