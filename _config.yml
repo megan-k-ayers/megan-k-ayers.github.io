@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Megan Ayers"
 title_separator          : "-"
 name                     : &name "Megan Ayers"
-description              : &description "PhD Candidate in Statistics & Data Science"
+description              : &description "Assistant Professor of Statistics at Reed College"
 url                      : https://megan-k-ayers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "megan-k-ayers/megan-k-ayers.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Megan Ayers"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Statistics & Data Science"
-  location         : "New Haven, CT"
-  employer         : "Yale University"
+  bio              : "Assistant Professor of Statistics"
+  location         : "Portland, OR"
+  employer         : "Reed College"
   uri              : # URL
   email            :  
 
