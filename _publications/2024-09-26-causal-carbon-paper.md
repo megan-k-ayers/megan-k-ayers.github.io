@@ -7,5 +7,5 @@ date: 2026-05-04
 venue: 'Preprint'
 slidesurl: 
 paperurl: '[https://osf.io/preprints/osf/5pcuh_v2](https://osf.io/preprints/osf/5pcuh_v3)'
-citation: 'Ayers, M., Sanford, L., Gardner, W., & Kuebbing, S. (2026, May 4). Causal Carbon: Baselines and Additionality with Potential Outcomes. [https://doi.org/10.31219/osf.io/5pcuh_v2](https://osf.io/preprints/osf/5pcuh_v3)'
+citation: 'Ayers, M., Sanford, L., Gardner, W., & Kuebbing, S. (2026, May 4). Causal Carbon: Baselines and Additionality with Potential Outcomes. https://doi.org/10.31219/osf.io/5pcuh_v2'
 ---
